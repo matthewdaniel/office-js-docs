@@ -19,7 +19,7 @@ Contains permissions to Microsoft Graph that the add-in needs. The Office Store 
     ...
     <WebApplicationInfo>
       <Id>12345678-abcd-1234-efab-123456789abc</Id>
-      <Resource>api://myDomain.com/12345678-abcd-1234-efab-123456789abc<Resource>
+      <Resource>api://myDomain.com/12345678-abcd-1234-efab-123456789abc</Resource>
       <Scopes>
         <Scope>Files.Read.All</Scope>
         <Scope>offline_access</Scope>
